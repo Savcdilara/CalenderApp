@@ -1,0 +1,14 @@
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\obj\Debug\net7.0\CalendarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\obj\Debug\net7.0\CalendarApp.AssemblyInfoInputs.cache
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\obj\Debug\net7.0\CalendarApp.AssemblyInfo.cs
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\obj\Debug\net7.0\CalendarApp.csproj.CoreCompileInputs.cache
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\bin\Debug\net7.0\CalendarApp.exe
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\bin\Debug\net7.0\CalendarApp.deps.json
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\bin\Debug\net7.0\CalendarApp.runtimeconfig.json
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\bin\Debug\net7.0\CalendarApp.dll
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\bin\Debug\net7.0\CalendarApp.pdb
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\obj\Debug\net7.0\CalendarApp.dll
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\obj\Debug\net7.0\refint\CalendarApp.dll
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\obj\Debug\net7.0\CalendarApp.pdb
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\obj\Debug\net7.0\CalendarApp.genruntimeconfig.cache
+C:\Users\savcd\source\repos\CalendarApp\CalendarApp\obj\Debug\net7.0\ref\CalendarApp.dll
